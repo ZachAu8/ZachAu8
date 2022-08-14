@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZachAu8
 - 👀 I’m interested in Data Analysis 
-- 🌱 I’m currently learning SQL, Python and R 
+- 🌱 I’m currently learning Data Science & Machine Learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
